@@ -27,20 +27,27 @@ body{
 }
 
 main{
-    text-align: center;
-    padding-top: 30px;
-    padding-right: 160px;
     background-color: white;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 100px;
+    width: 900px;
+    height: 600px;
+    margin-left: 300px;
 }
 
 
+
+
 .color-white{
+    display: inline-block;
     width: 90px;
     height: 30px;
     border-radius: 10%;
 }
 
 .color-blue{
+    display: inline-block;
     color: white;
     background-color: lightskyblue;
     width: 90px;
