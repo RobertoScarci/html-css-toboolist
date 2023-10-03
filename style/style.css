@@ -32,11 +32,9 @@ main{
     padding-right: 50px;
     padding-left: 100px;
     width: 900px;
-    height: 600px;
+    height: 700px;
     margin-left: 300px;
 }
-
-
 
 
 .color-white{
@@ -55,5 +53,55 @@ main{
     border-radius: 10%;
 }
 
+.tasto{
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 12px;
+   border-radius: 50px;
+   display: inline-block;
+   height: 35px;
+   width: 80px;
+   text-align: center;
+}
 
+div{
+    font-size: 20px;
+    line-height: 40px;
+    padding-top: 35px;
+}
 
+.colore-celeste{
+    background-color: lightskyblue;
+}
+
+.colore-viola{
+    background-color: purple;
+}
+
+.colore-verde{
+    background-color: green;
+}
+
+.colore-arancione{
+    background-color: goldenrod;
+}
+
+.colore-fucsia{
+    background-color: fuchsia;
+}
+
+.colore-giallo{
+    background-color: yellowgreen;
+}
+
+.freccia{
+    font-size: 15px;
+}
+
+.spunta{
+  color: green; 
+}
+
+.croce{
+    color: red;
+}
