@@ -70,6 +70,7 @@ div{
     padding-top: 35px;
 }
 
+
 .colore-celeste{
     background-color: lightskyblue;
 }
@@ -99,9 +100,23 @@ div{
 }
 
 .spunta{
-  color: green; 
+  color: green;
+  display: inline-block;
+  width: 30px;
+  height: 30px; 
+  border: 2px solid green;
+  text-align: center;
+  line-height: 27px;
+  border-radius: 50px;
 }
 
 .croce{
     color: red;
+    display: inline-block;
+    width: 30px;
+    height: 30px; 
+    border: 2px solid red;
+    text-align: center;
+    line-height: 27px;
+    border-radius: 50px;
 }
